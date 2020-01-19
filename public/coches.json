@@ -1,0 +1,19 @@
+[{
+        "id": 1,
+        "modelo": "ibiza",
+        "marca_id": 1,
+        "potencia": 1500
+    },
+    {
+        "id": 2,
+        "modelo": "loxiter",
+        "marca_id": 2,
+        "potencia": 600
+    },
+    {
+        "id": 3,
+        "modelo": "leon",
+        "marca_id": 1,
+        "potencia": 2500
+    }
+]
