@@ -10,7 +10,7 @@ Para la realización de la prueba he seguido los patrones:
 
 -   Active Record: Ya que Eloquent, el ORM de Laravel mapea cada objeto en cada fila de una tabla de la base de datos
 
--   Factory Patter: Al crear las interfaces para los repositorios e inyectarlas como dependencias abstrayendonos así del origen de los datos: sea Base de datos, un fichero, API REST, etc..
+-   Factory Pattern: Al crear las interfaces para los repositorios e inyectarlas como dependencias abstrayendonos así del origen de los datos: sea Base de datos, un fichero, API REST, etc.. ( "D" en SOLID)
 
 El proyecto está realizado en laravel 6. Las clases se encuentran en el directorio **app/** , una serie de controladores bajo **app/Http/Controllers**, las vistas en la ruta **resources/views** y interfaces en ...
 
